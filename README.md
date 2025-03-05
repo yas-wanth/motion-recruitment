@@ -9,4 +9,3 @@ result = num1 + num2
 
 # Display result
 print(f"The sum of {num1} and {num2} is {result}")
-
